@@ -10,3 +10,5 @@ Example Population Data.csv contains the population of each of the geographic ar
 For the code to run properly, the area names in Example Data.csv and Example Population Data.csv much match the names given in the 'county.list' vector defined on line 29 of MCMC Code.R
 
 For further details, see 'A Bayesian Susceptible-Infectious-Hospitalized-Ventilated-Recovered Model to Predict Demand for COVID-19 Inpatient Care in a Large Healthcare System', by Self et. al.
+
+Some users have had trouble installing the package on R version 4.1.  The source code for all functions in the package is provided in the Source_Code file.
